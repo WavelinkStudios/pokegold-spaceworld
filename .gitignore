@@ -11,6 +11,7 @@
 
 # build artifacts
 /build
+rgbdscheck.o
 
 # build tools
 tools/scan_includes
@@ -22,3 +23,6 @@ __pycache__
 
 # utility output
 /coverage.png
+
+# macos files
+.DS_STORE
